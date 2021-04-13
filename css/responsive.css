@@ -89,13 +89,15 @@
     margin-left: 5px;
   }
   .hero-area .contents {
-    padding: 100px 0 20px;
+    padding: 0px 0 0px;
   }
   .hero-area-2 .contents h2 {
+    margin-left: 50px;
     line-height: 42px;
     font-size: 26px;
   }
   .hero-area-2 .contents {
+    align-content: center;
     padding-bottom: 0px;
   }
   .hero-area-2 .intro-img {
@@ -156,18 +158,22 @@
     padding: 60px 0 45px;
   }
   .hero-area .contents {
-    padding: 100px 0 20px;
+    padding: 0px 0 0px;
   }
   .hero-area .contents h2 {
+    
     font-size: 22px;
     line-height: 30px;
     margin-bottom: 15px;
   }
   .hero-area-2 .contents h2 {
+    margin-left: 50px;
+    align-content: center;
     font-size: 24px;
     line-height: 36px;
   }
   .hero-area-2 .contents {
+    align-content: center;
     padding-bottom: 0px;
   }
   .hero-area-2 .intro-img {
@@ -199,7 +205,8 @@
     display: none;
   }
   .hero-area-2 .contents {
-    padding: 100px 0 10px;
+    align-content: center;
+    padding: 00px 0 0px;
   }
   .hero-area-2 .contents .btn {
     margin-top: 20px;
@@ -335,7 +342,7 @@
     margin-top: 20px;
   }
   .hero-area-2 .contents {
-    padding: 100px 0 10px;
+    padding: 0px 0 0px;
   }
   .hero-area-2 .contents .btn {
     margin-top: 20px;
